@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded Software Engineer
 --------------------------
 
-A lover of LEDs and smart-things; I enjoy taking on projects that involve displays, LEDs, and device communication. I also enjoy writing scripts to automate a task or workflow. A script to automate a bunch of apps to build? Sure! A script to rename a bunch of files? Why not! I specialize in developing software for microcontrollers (AtMega32 ESP32, STM32) and embedded Linux devices (Xilinx PetaLinux). I have experience implementing tools like FreeRTOS, I2C and UART, and message queues; and experience writing Python and bash scripts.
+A lover of LEDs and smart-things; I enjoy taking on projects that involve displays, LEDs, and device communication. I also enjoy writing scripts to automate a task or workflow. A script to automate a bunch of apps to build? Sure! A script to rename a bunch of files? Why not! I specialize in developing software for microcontrollers (AtMega32 ESP32, STM32) and embedded Linux devices (Xilinx PetaLinux). I have experience implementing tools like FreeRTOS, I2C and UART, message queues; and experience writing Python and bash scripts.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [jc.psp5@gmail.com](mailto:jc.psp5@gmail.com)
